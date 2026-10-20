@@ -1,7 +1,7 @@
 # Addis Eats — Next.js Capstone
 
 A responsive Ethiopian food ordering demo built with Next.js App Router, React, API Route Handlers, SWR, and localStorage cart state.
-# LIVE-DEMO=[https://vercel.com/dawa-s-projects1/next-addis-eats-project]
+# LIVE-DEMO=[https://next-addis-eats-project.vercel.app/]
 
 
 ## Features
